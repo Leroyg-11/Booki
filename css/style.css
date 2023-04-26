@@ -13,6 +13,9 @@
     color: #F2F2F2;
 }
 
+input{
+    outline: none;
+}
 
 @media only screen and (min-width: 1440px) and (max-width: 2000px) {
     body{
