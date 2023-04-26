@@ -36,7 +36,7 @@
     
     .nav_ul_container{
         display: flex;
-        margin-right: 140px;
+        margin-right: 20px;
     }
     
     .item{
@@ -450,7 +450,6 @@
     
     .nav_ul_container{
         display: flex;
-        margin-right: 20px;
     }
     
     .item{
