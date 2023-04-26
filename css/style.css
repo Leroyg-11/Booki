@@ -443,6 +443,9 @@ input{
     
     .nav_ul_container{
         display: flex;
+        position: absolute;
+        left: 730px;
+
     }
     
     .item{
