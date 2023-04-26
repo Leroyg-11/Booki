@@ -257,11 +257,6 @@ input{
         box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
     }
 
-    /* .card_heb p{
-        background-color: red;
-        padding: 8px 0 8px 0;
-    } */
-
     .container_description_heb{
         padding: 0 15px 15px 15px;
 
@@ -272,8 +267,6 @@ input{
 
     }
 
-
-    
     /*  heb pop  */
     
     .chart_icone{
@@ -282,8 +275,6 @@ input{
         align-items: baseline;
         justify-content: space-between;
     }
-
-    
     
     .pop_h2{
         padding: 30px 58px 15px 0px;
@@ -324,8 +315,6 @@ input{
         justify-content: space-between;
         padding: 15px 15px 10px 15px;
         width: 216px;
-        
-    
     }
 
     .container_titres_pop{
@@ -337,10 +326,8 @@ input{
         padding-bottom: 5px;
     }
 
-
-    
-
     /* fin hebergement  */
+
     /* Activités*/
 
     .activites{
@@ -1040,9 +1027,7 @@ input{
     .heb_p{
         padding: 0px 0px 85px 20px;
     }
-    .container_heb_marseille{
-        
-    }
+
     
     .container_heb_card{
         padding: 15px 15px 8px 15px;
@@ -1149,19 +1134,6 @@ input{
         margin: 0 0 17px 0px;
     }
 
-    .activites_container{
-        /* padding: 15px 15px 15px 15px;
-        display: flex;
-        flex-direction: column; */
-    }
-
-    .image_activites img{
-        object-fit: cover;
-        border-radius: 15px 15px 0px 0px;
-        height: 141px;
-        width: 315px;
-        box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
-    }
 
     .lieux_activites{
         height: 59px;
@@ -1211,21 +1183,6 @@ input{
     .container_footer li{
         padding-bottom: 10px;
     }
-    
-    /* .footerclass{
-        margin: 20px 131px 20px 20px;
-    }
-    
-    .footerclass li{
-        padding-bottom: 15px;
-        font-weight: 100;
-        font-size: 16px;
-        line-height: 19px;
-    } */
-    
-    
-    
-
 
 }
 
