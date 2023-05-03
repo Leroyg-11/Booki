@@ -700,7 +700,6 @@ input{
     .container_heb_pop img{
         object-fit: cover;
         border: 5px solid white;
-        height: 136px;
         width: 113px;
         border-radius: 20px 0px 0px 20px;
         box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
